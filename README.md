@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Projeto referente ao Capítulo 2 da trilha ReactJS da Rocketseat
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
